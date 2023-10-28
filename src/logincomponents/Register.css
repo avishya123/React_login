@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+.para{
+    text-align: center;
+    box-shadow: 3px 5px 5px;
+    border-radius: 5%;
+    height: 400px;
+    width:400px ;
+    background-color: white;
+    margin: 100px;
+    margin-left: 500px;
+}
+h1{
+    font-size: 30px;
+    color: blue;
+    padding: 30px;
+}
+input{
+    border-top: 2px;
+    border-left: none;
+    border-right: none;
+    width: 300px;
+    font-size: 20px;
+}
+.btn{
+    font-size: 20px;
+    width: 300px;
+    color: white;
+    background-color: blue;
+    margin-top: 40px;
+}
